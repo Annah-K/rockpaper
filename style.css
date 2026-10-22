@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(207, 167, 118);
+    text-align: center;
+
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+    
+}
+.text{
+    border: 2px brown solid;
+    padding: 10px;
+    padding-block: 5px;
+    border-radius: 5px;
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    gap: 10px;
+    
+}
